@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>쿠팡파트너스 전문몰 - 최고의 상품을 만나보세요</title>
+    <title>Kupass 전문몰 - 최고의 상품을 만나보세요</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         /* CSS 변수 정의 */
@@ -885,7 +885,7 @@
         // 전역 변수
         let products = []; // 상품 데이터를 저장할 배열
         let currentEditingId = null; // 현재 수정 중인 상품의 ID
-        const ADMIN_PASSWORD = "admin"; // 관리자 비밀번호 (간단한 예시, 실제 사용 시 더 강력한 보안 필요)
+        const ADMIN_PASSWORD = "Long live the Republic of Korea"; // 관리자 비밀번호 (간단한 예시, 실제 사용 시 더 강력한 보안 필요)
         let isAdminLoggedIn = false; // 관리자 로그인 상태
 
         // 앱 초기화
